@@ -1,8 +1,22 @@
 /*======================= global =====================*/
+@import url('https://fonts.googleapis.com/css2?family=Mona+Sans:wdth,wght@87.5,300&display=swap');
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family:'Mona Sans', sans-serif;
     line-height: 1.5;
     background-color: #fff0cf;
     margin: 0;
     padding: 0;
+}
+.container{
+    padding-inline: 4%;
+    background-color: #ffff;
+}
+.confirmation-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff8f0;
+    border-radius: 8px;
+    padding: 10%;
 }
