@@ -1,0 +1,25 @@
+@media (min-width: 100px) and (max-width: 767px) {
+    .nav-item{
+        text-align: center;
+        padding: 0 !important;
+        gap: 5px;
+        font-size: 15px !important;
+    }
+    .order-tracking {
+        flex-direction: column;
+        gap: 150px;
+    }
+    
+    .line{
+        rotate: 90deg;
+        transform: none !important;
+        width: 55px !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .nav-item{
+        gap: 5px;
+        font-size: 15px !important;
+    }
+}
