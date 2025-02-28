@@ -84,3 +84,13 @@ body{
     padding-inline: 10%;
 }
 /* ====================== text ===================== */
+
+/* ====================== order details ===================== */
+.order-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ====================== order details ===================== */
