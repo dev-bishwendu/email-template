@@ -1,4 +1,7 @@
 @media (min-width: 100px) and (max-width: 767px) {
+    .mt{
+        margin-top: 50px !important;
+    }
     .nav-item{
         text-align: center;
         padding: 0 !important;
@@ -14,6 +17,10 @@
         rotate: 90deg;
         transform: none !important;
         width: 55px !important;
+    }
+    .btn{
+        padding: 5px 15px !important;
+        font-size: 15px !important;
     }
 }
 

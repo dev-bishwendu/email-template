@@ -11,7 +11,10 @@ body{
     padding-inline: 6%;
     background-color: #ffff;
 }
-
+.mt{
+    margin-top: 100px;
+}
+/*======================= global =====================*/
 /* ====================== confirmation ===================== */
 .confirmation-container{
     display: flex;
@@ -60,3 +63,24 @@ body{
     transform: translateY(-18px);
 }
 /* ====================== order tracking ===================== */
+
+/* ====================== button ===================== */
+.btn{
+    padding: 10px 50px;
+    background-color: #ff7f50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.btn:hover{
+    background-color: #ff7f47;
+    color: white;
+}
+/*======================= button =====================*/
+
+/* ======================= text ===================== */
+.text{
+    padding-inline: 10%;
+}
+/* ====================== text ===================== */
