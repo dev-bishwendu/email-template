@@ -1,4 +1,10 @@
 @media (min-width: 100px) and (max-width: 767px) {
+    h1{
+        font-size: 20px !important;
+    }
+    .psge{
+        font-size: 10px !important;
+    }
     .mt{
         margin-top: 50px !important;
     }
@@ -21,6 +27,13 @@
     .btn{
         padding: 5px 15px !important;
         font-size: 15px !important;
+    }
+    .table img{
+        height: 40px !important;
+        width: 40px !important;
+    }
+    .table ul li{
+        font-size: 10px !important;
     }
 }
 
