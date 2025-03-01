@@ -35,6 +35,10 @@
     .table ul li{
         font-size: 10px !important;
     }
+    .contact{
+        grid-template-columns: repeat(1,1fr) !important;
+        gap: 20px !important;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {

@@ -94,3 +94,21 @@ body{
 }
 
 /* ====================== order details ===================== */
+
+/* ====================== contact ===================== */
+.contact{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 40px;
+}
+.conct{
+    background-color: #fff8f0;
+    border-radius: 10px;
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    align-items:first baseline;
+    gap: 20px;
+    cursor: pointer;
+}
+/* ====================== contact ===================== */
