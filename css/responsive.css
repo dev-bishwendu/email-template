@@ -39,11 +39,21 @@
         grid-template-columns: repeat(1,1fr) !important;
         gap: 20px !important;
     }
+    .FAQS{
+        height: 40vh !important;
+        background-position:  10px 80px !important;
+        
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
     .nav-item{
         gap: 5px;
         font-size: 15px !important;
+    }
+    .FAQS{
+        height: 70vh !important;
+        background-position:  30px 160px !important;
+        
     }
 }

@@ -102,7 +102,7 @@ body{
     gap: 40px;
 }
 .conct{
-    background-color: #fff8f0;
+    background-color: #ead4bb;
     border-radius: 10px;
     padding: 5%;
     display: flex;
@@ -112,3 +112,19 @@ body{
     cursor: pointer;
 }
 /* ====================== contact ===================== */
+
+/* ====================== FAQS ===================== */
+.FAQS{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    padding: 3%;
+    height: 100vh;
+    background: #ffdbb5;
+    background-image: url('../asset/vecteezy_clothing-used-good-retail-shopping-sales_25028084.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 200px 170px;
+}
+/* ====================== FAQS ===================== */
