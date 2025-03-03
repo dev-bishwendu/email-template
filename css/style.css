@@ -128,3 +128,46 @@ body{
     background-position: 200px 170px;
 }
 /* ====================== FAQS ===================== */
+
+/* ====================== shipping ===================== */
+.shipping{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    background-color: #fff8ed;
+    padding: 3%;
+    border-radius: 10px;
+}
+/* ====================== shipping ===================== */
+
+/* ====================== links ===================== */
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #fff8ed;
+    padding: 5%;
+    border-radius: 10px;
+}
+.links-text span a{
+    color: #ff7f50;
+    text-decoration: none;
+}
+/*========================= links==================== */
+
+/* ====================== footer ===================== */
+.footer{
+    background-image: url('../asset/vecteezy_clothing-used-good-retail-shopping-sales_25028084.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    z-index: 1;
+}
+.footer-container{
+    background-color: rgba(255, 235, 205, 0.108);
+    z-index: 2;
+}
