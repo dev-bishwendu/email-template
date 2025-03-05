@@ -8,6 +8,10 @@
     .mt{
         margin-top: 50px !important;
     }
+    .nav-link{
+        background-color: #b9dbab !important;
+        color: white !important;
+    }
     .nav-item{
         text-align: center;
         padding: 0 !important;
@@ -43,6 +47,9 @@
         height: 40vh !important;
         background-position:  10px 80px !important;
         
+    }
+    .footer{
+        height: 30vh !important;
     }
 }
 
