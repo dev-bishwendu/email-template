@@ -161,13 +161,30 @@ body{
 
 /* ====================== footer ===================== */
 .footer{
-    background-image: url('../asset/vecteezy_clothing-used-good-retail-shopping-sales_25028084.png');
+    background-image: url('../asset/clark-street-mercantile-P3pI6xzovu0-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 70vh;
+    position: relative;
+}
+.footer-container{
+    background-color: rgba(163, 165, 215, 0.853);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     z-index: 1;
+    position: relative;
+    height: 100%;
+    width: 100%;
 }
-.footer-container{
-    background-color: rgba(255, 235, 205, 0.108);
-    z-index: 2;
+.footer-inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    padding: 10%;
 }
